@@ -2,7 +2,7 @@
 
 # API Documentation can be sourced below,
 
-# https://documenter.getpostman.com/view/39168818/2sAY4rF527
+# https://documenter.getpostman.com/view/39168818/2sAY4uDj1F
 
 # Additional information about the available routes,
 
